@@ -1,0 +1,6 @@
+
+LOAD R0, {A}
+LOAD R1, {B}
+ADD R0, R1
+OUT R0, 1
+HALT
